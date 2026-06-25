@@ -1,9 +1,3 @@
----
-noteId: "29b33a1070b111f19ec49d9bd6d884a1"
-tags: []
-
----
-
 # Bank Marketing Response Modeling
 
 ## Project Overview
