@@ -1,5 +1,10 @@
 # Bank Marketing Response Modeling
 
+## Web Report
+
+A static web representation is available in `docs/index.html`. After enabling GitHub Pages from the `docs` folder, it can be viewed as a project report page.
+
+
 ## Project Overview
 
 This project analyzes customer response to a bank marketing campaign and builds a predictive workflow for campaign prioritization. The dataset comes from a direct marketing campaign where the target variable `y` indicates whether the customer subscribed to the offer.
